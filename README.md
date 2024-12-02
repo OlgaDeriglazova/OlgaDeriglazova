@@ -32,8 +32,4 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/OlgaDeriglazova/OlgaDeriglazova/output/snake.svg" alt="Snake animation" />
-
-###
