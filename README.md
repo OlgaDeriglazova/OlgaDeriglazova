@@ -1,6 +1,6 @@
 <h2 align="center">Hi! My name is Olga!</h2>
 
-###
+
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
