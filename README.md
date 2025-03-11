@@ -13,7 +13,7 @@
 <p align="left">Образование: СпбГУ, медицинский факультет, лечебное дело<br>Курсы: ИТМО, full stack, 475 уч. ч.<br>Местоположение: София, Болгария (GMT+2)</p>
 
 ###
-Проект, надо которым работаю в данный момент: [[https://map-react-23k2.vercel.app](https://map-react-ruddy.vercel.app/)/]
+Проект, надо которым работаю в данный момент: [https://map-react-23k2.vercel.app](https://map-react-ruddy.vercel.app/)
 
 ###
 <h2 align="left">Технический стек</h2>
